@@ -1,3 +1,5 @@
 HELLO WELCOME TO JMART.!!
 
-JMart is a Ecommerce Website where you can shop anything from your household things to personal hygiene. 
+JMart is a Ecommerce Website .
+<br> 
+I have create this website using HTML and CSS.

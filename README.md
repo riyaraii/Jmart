@@ -1,4 +1,4 @@
-cdHELLO WELCOME TO JMART.!!
+HELLO WELCOME TO JMART.!!
 
 JMart is a Ecommerce Website .
 <br> 
